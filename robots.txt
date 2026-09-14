@@ -1,0 +1,5 @@
+Sitemap: https://voteforwendy.com/sitemap.xml
+Sitemap: https://voteforwendy.com/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
